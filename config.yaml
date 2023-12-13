@@ -1,0 +1,5 @@
+url_login: 'https://test-stand.gb.ru/gateway/login'
+url_post: 'https://test-stand.gb.ru/api/posts'
+username: 'Neo1'
+password: '9aedda8a1f'
+token: '9b5170a9653d1b541c1c0580c231de84'
